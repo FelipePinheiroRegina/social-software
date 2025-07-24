@@ -2,6 +2,14 @@
 
 Este projeto é uma aplicação de rede social desenvolvida com **React**, **TypeScript** e **Vite**. O objetivo é demonstrar conceitos modernos de desenvolvimento front-end, incluindo componentização, estilização modular, manipulação de estado e boas práticas de organização de código.
 
+![image 1](./images/social-media.png)
+<hr>
+
+![image 2](./images/social-media2.png)
+<hr>
+
+![image 3](./images/social-media3.png)
+
 ## ✨ Tecnologias Utilizadas
 
 - [React](https://react.dev/) — Biblioteca para construção de interfaces de usuário.
